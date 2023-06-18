@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Leap Year",
+      "setup": "",
+      "run": "node leap-year.js",
+      "input": "",
+      "output": "false\r\nfalse\r\ntrue\r\ntrue\r\nfalse\r\nfalse\r\ntrue\r\ntrue\r\nfalse",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 100
+    }
+  ]
+}
